@@ -25,7 +25,7 @@ SRR3414636	| control	| 20307147 | 19757059 | 17825380 | 15757580
 SRR3414637	| control	| 20385570 | 19847291 | 17844858 | 15736978
 ## DESeq2
 ### MA-plot
-![plotMA-1](https://user-images.githubusercontent.com/55647212/144243687-859138ed-fe97-4c1f-a18f-01fe2d6a7ef9.png)
+<img width ="351" src="https://user-images.githubusercontent.com/55647212/144243687-859138ed-fe97-4c1f-a18f-01fe2d6a7ef9.png">
 ### Heatmap
 <img width="351" alt="Screen Shot 2021-12-01 at 08 33 41" src="https://user-images.githubusercontent.com/55647212/144243725-5a06a6c6-a1a7-4996-9ec0-9697add7d40d.png">
 ### Гены, которые значимо поменяли свою экспрессию:
