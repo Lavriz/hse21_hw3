@@ -18,10 +18,6 @@
 -- 
 ## DESeq2
 Гены, которые значимо поменяли свою экспрессию:
-![gene12-1](https://user-images.githubusercontent.com/55647212/144172774-ece87ca2-0862-41d4-936d-3339109cfc8a.png)
-![gene10345-1](https://user-images.githubusercontent.com/55647212/144172808-cfaea954-7c15-431e-b392-7dd67f1beda3.png)
-![gene11111-1](https://user-images.githubusercontent.com/55647212/144172796-942b8430-29ff-469a-bfd4-dcecea7756e0.png)
-![gene12125-1](https://user-images.githubusercontent.com/55647212/144172812-c4f4ffea-f1c9-4850-8601-8f3098f12ce7.png)
 
 
 
