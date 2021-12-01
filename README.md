@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/55647212/144172108-b6504f39-6e68-40fd-bae6-5562161bf890.png)
 ![image](https://user-images.githubusercontent.com/55647212/144172180-364465f3-a2b8-4588-8d4b-7b2c63e8553b.png)
 ## Statistics
-**Sample** | **Type** | **Reads N** | **Aligned reads** | **Aligned once** | **Reads per gene**
+**ID** | **Type** | **Reads N** | **Aligned reads** | **Aligned once** | **Reads per gene**
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 SRR3414629	| reprogramming	| 21106089	| 20510113 | 18375888 | 16049609
 SRR3414630	| reprogramming	| 15244711	| 14832680 | 13186139 | 11465324
