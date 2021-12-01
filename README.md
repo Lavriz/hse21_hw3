@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/55647212/144172108-b6504f39-6e68-40fd-bae6-5562161bf890.png)
 ![image](https://user-images.githubusercontent.com/55647212/144172180-364465f3-a2b8-4588-8d4b-7b2c63e8553b.png)
 ## Statistics
-Sample | Type | Reads N| Aligned reads| Aligned once | Reads per gene
+**Sample** | **Type** | **Reads N** | **Aligned reads** | **Aligned once** | **Reads per gene**
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 SRR3414629	| reprogramming	| 21106089	| 20510113 | 18375888 | 16049609
 SRR3414630	| reprogramming	| 15244711	| 14832680 | 13186139 | 11465324
@@ -30,7 +30,7 @@ SRR3414637	| control	| 20385570 | 19847291 | 17844858 | 15736978
 ### Heatmap
 <img width="400" alt="Screen Shot 2021-12-01 at 08 33 41" src="https://user-images.githubusercontent.com/55647212/144243725-5a06a6c6-a1a7-4996-9ec0-9697add7d40d.png">
 
-### Гены, которые значимо поменяли свою экспрессию
+### Гены, которые значимо поменяли свою экспрессию:
 ### gene 12
 <img width ="400" src="https://user-images.githubusercontent.com/55647212/144243778-5b2366a8-ba43-495a-bf6e-fca06cedca30.png">
 
