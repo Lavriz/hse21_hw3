@@ -15,9 +15,22 @@
 ![image](https://user-images.githubusercontent.com/55647212/144172108-b6504f39-6e68-40fd-bae6-5562161bf890.png)
 ![image](https://user-images.githubusercontent.com/55647212/144172180-364465f3-a2b8-4588-8d4b-7b2c63e8553b.png)
 ## Statistics
--- 
+Sample | Type | Reads N| Aligned reads| Aligned once | Reads per gene
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+SRR3414629	| reprogramming	| 21106089	| 20510113 | 18375888 | 16049609
+SRR3414630	| reprogramming	| 15244711	| 14832680 | 13186139 | 11465324
+SRR3414631	| reprogramming	| 24244069	| 23547686 | 20928945 | 18408851
+SRR3414635	| control	| 20956475 | 20395865 | 18428317 | 16275997
+SRR3414636	| control	| 20307147 | 19757059 | 17825380 | 15757580
+SRR3414637	| control	| 20385570 | 19847291 | 17844858 | 15736978
 ## DESeq2
+![plotMA-1](https://user-images.githubusercontent.com/55647212/144243687-859138ed-fe97-4c1f-a18f-01fe2d6a7ef9.png)
+<img width="351" alt="Screen Shot 2021-12-01 at 08 33 41" src="https://user-images.githubusercontent.com/55647212/144243725-5a06a6c6-a1a7-4996-9ec0-9697add7d40d.png">
 Гены, которые значимо поменяли свою экспрессию:
+![gene12-1](https://user-images.githubusercontent.com/55647212/144243778-5b2366a8-ba43-495a-bf6e-fca06cedca30.png)
+![gene10345-1](https://user-images.githubusercontent.com/55647212/144243790-84584add-bec2-42e2-aca4-6013b338af42.png)
+![gene11111-1](https://user-images.githubusercontent.com/55647212/144243802-b2bbfc10-9af5-4fd4-b6c5-71427ff28f77.png)
+![gene12125-1](https://user-images.githubusercontent.com/55647212/144243817-1fffeb0d-42f0-42e9-9732-d874936ad610.png)
 
 
 
