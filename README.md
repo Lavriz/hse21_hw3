@@ -4,6 +4,14 @@
 
 [ссылка на R анализ](https://colab.research.google.com/drive/1du72iSUwkuwGgHeks0FBlEmzgH3DzLAY?usp=sharing)
 ## MultiQC
+**ID** | **Length** | **Failed (%)**
+SRR3414629	| 65 | 18
+SRR3414630	| 65 | 18
+SRR3414631	| 65 | 18
+SRR3414635	| 65 | 18
+SRR3414636	| 65 | 18
+SRR3414637	| 65 | 18
+
 ![image](https://user-images.githubusercontent.com/55647212/144171524-7f7a64cc-a1ea-4d87-ad66-e132355db81c.png)
 ![image](https://user-images.githubusercontent.com/55647212/144171624-1fa60142-bd0c-41ba-bdc6-7ee9f5add9ea.png)
 ![image](https://user-images.githubusercontent.com/55647212/144171722-28f16820-5cb4-4809-b23e-43e7d3b74456.png)
