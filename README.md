@@ -5,6 +5,7 @@
 [ссылка на R анализ](https://colab.research.google.com/drive/1du72iSUwkuwGgHeks0FBlEmzgH3DzLAY?usp=sharing)
 ## MultiQC
 **ID** | **Length** | **Failed (%)**
+------------ | ------------- | ------------- 
 SRR3414629	| 65 | 18
 SRR3414630	| 65 | 18
 SRR3414631	| 65 | 18
