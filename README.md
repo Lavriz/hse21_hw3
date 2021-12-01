@@ -29,24 +29,10 @@ MA-plot | Heatmap
 <img width ="400" src="https://user-images.githubusercontent.com/55647212/144243687-859138ed-fe97-4c1f-a18f-01fe2d6a7ef9.png"> | <img width="400" alt="Screen Shot 2021-12-01 at 08 33 41" src="https://user-images.githubusercontent.com/55647212/144243725-5a06a6c6-a1a7-4996-9ec0-9697add7d40d.png">
 
 ### Гены, которые значимо поменяли свою экспрессию:
-### gene 15
-<img width ="400" src="https://user-images.githubusercontent.com/55647212/144247777-63f5dd89-6646-4a0a-9182-c6edff067030.png">
+gene 15 | gene 10345
+:-------------------------:|:-------------------------:
+<img width ="400" src="https://user-images.githubusercontent.com/55647212/144247777-63f5dd89-6646-4a0a-9182-c6edff067030.png"> | <img width ="400" src="https://user-images.githubusercontent.com/55647212/144243790-84584add-bec2-42e2-aca4-6013b338af42.png">
 
-### gene 10345
-<img width ="400" src="https://user-images.githubusercontent.com/55647212/144243790-84584add-bec2-42e2-aca4-6013b338af42.png">
-
-### gene 11567
-<img width ="400" src="https://user-images.githubusercontent.com/55647212/144247815-2164a96b-4faf-4973-9cb7-b69315c2af9a.png">
-
-### gene 12125
-<img width ="400" src="https://user-images.githubusercontent.com/55647212/144243817-1fffeb0d-42f0-42e9-9732-d874936ad610.png">
-
-
-
-
-
-
-
-
-
-
+gene 11567 | gene 12125
+:-------------------------:|:-------------------------:
+<img width ="400" src="https://user-images.githubusercontent.com/55647212/144247815-2164a96b-4faf-4973-9cb7-b69315c2af9a.png"> | <img width ="400" src="https://user-images.githubusercontent.com/55647212/144243817-1fffeb0d-42f0-42e9-9732-d874936ad610.png">
